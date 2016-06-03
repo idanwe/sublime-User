@@ -1,0 +1,15 @@
+[
+  {
+    "keys": ["super+alt+shift+["],
+    "command": "move_tab",
+    "args": { "position": "-1" }
+  },
+  {
+    "keys": ["super+alt+shift+]"],
+    "command": "move_tab",
+    "args": { "position": "+1" }
+  },
+  {
+    "keys": ["ctrl+shift+'"], "command": "change_quotes"
+  }
+]
